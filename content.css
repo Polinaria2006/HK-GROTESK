@@ -1,0 +1,105 @@
+/* .odin{
+    width: 1440px;
+    height: 1635px;
+    background-color: black;
+}
+.dva{
+    height: 1334px;
+    width: 1179;
+    margin: 129px;
+    margin-top: 129px;
+    margin-bottom: 0px;
+}
+.tri{
+    width: 1440px;
+    height: 725px;
+    background-color: black;
+}
+.chet{
+    margin: 759px;
+    margin-top: -10.5%;
+}
+.pyat1{
+    width: 1440px;
+    height: 509.09px;
+    background-color: black;
+}
+.pyat{
+    margin: 470px;
+    margin-top: -560px;
+    transform: rotate(90deg);
+}
+.shest{
+    height: 3484px;
+    width: 1440px;
+    background-color: black;
+
+}
+.sem{
+    margin: 349px;
+    margin-top: 521px;
+}
+.vos{
+    height: 1427px;
+    width: 1145px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+} */
+
+body{
+    width: 1440px;
+    height: 13060px;
+    margin: 0 auto;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+}
+
+/* блок 1 */
+.block_one{
+    width: 1180px;
+    height: 1497px;
+    color: rgb(0, 0, 0);
+}
+    .tarantino{
+    height: 1497px;
+    width: 1180px;
+    margin-top: 129px;
+    margin: 129px;
+}
+
+.bolshoy {
+    position: relative; /* Для использования отрицательного margin у второго блока */
+    margin-top: -97%; 
+    text-align: center;
+}
+.text1{
+    color: rgb(0, 0, 0);
+    font-size: 186px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* блок 2 */
+.plenka_iz_bukv{
+    position: relative;
+    margin: 20%;
+    margin-top: 91%;
+}
+.plenka_stoit{
+    position: relative;
+    margin: 55.9%;
+    margin-top: -70.8%;
+}
+.plenka_lezhit{
+    margin-top: -100%;
+    margin: 15%;
+}
+  
+
+
+
+  
+
+  
